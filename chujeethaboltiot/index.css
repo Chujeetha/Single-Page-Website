@@ -1,0 +1,278 @@
+*{
+
+  font-family:"Avenir", sans-serif;
+}
+
+.head{
+
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  height: 50px;
+  width: 100%;
+  background-color: white;
+  z-index: 200;
+}
+
+#home{
+
+  color:#0a0a0a;
+  text-decoration:none;
+}
+#clickme{
+
+  color:white;
+  text-decoration:none;
+}
+
+#img{
+
+  float:left;
+  padding-left:400px;
+}
+.twig{
+
+  position:relative;
+  text-align:center;
+  color:white;
+  font-size:18px;
+}
+.first{
+
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+#back{
+
+  height:700px;
+  width:1501px;
+}
+
+
+
+
+#us{
+
+	text-align: center;
+	color:  #139139;
+	letter-spacing: 3px;
+	
+	font-family: "Avenir", sans-serif;
+	font-size: 35px;
+}
+
+.about_us{
+
+  position:relative;
+	text-align: center;
+	color: #000000;
+	font-size: 90%;
+	font-weight: normal;
+  font-family: "Avenir", sans-serif;
+	line-height: 20pt;
+      
+        
+}
+
+.vision{
+
+	color: #000000;
+  text-align: left;
+	float: left;
+	display: inline-block;
+	padding-left: 235px;
+}
+
+.mission{
+
+	color: #000000;
+  text-align: left;
+	float: left;
+	display: inline-block;
+	padding-left: 25px;
+
+}
+
+.card p{
+
+	width: 450px;
+	font-family: "Avenir", sans-serif;
+	text-align: justify;
+	font-weight: normal;
+}
+
+.about_us img{
+
+	width: 500px;
+	height: 330px;
+
+}
+
+.foot{
+
+  position:absolute;
+  top:400%;
+  background-color:#139139;
+  color:white;
+  height:85px;
+  width:100%;
+}
+
+#val{
+
+   float:right;
+   padding-top:15px;
+}
+
+#fb2{
+
+  padding-right:25px;
+  border-radius:50px;
+}
+
+#twit2{
+
+  padding-right:25px;
+}
+
+#insta2{
+  
+  padding-right:250px;
+}
+
+#crights{
+
+ float:left;
+ padding-left:400px;
+ padding-top:15px;
+}
+
+
+
+.cnt{
+
+  position:absolute;
+  top:270%;
+  height:100%;
+  width:100%;
+}
+#hub{
+
+  color:#139139;
+  padding-left:680px;
+  font-family: "Avenir", sans-serif;
+	font-size: 35px;
+}
+
+.touch1{
+
+  float:left;
+  padding-left:200px;
+  display:block;
+  width:30%;
+
+}
+
+.dig{
+
+  float:left;
+  padding-left:200px;
+  display:block;
+}
+
+#locat{
+
+  float:left;
+
+}
+
+#loc{
+
+  float:left;
+  padding-left:15px;
+}
+
+#cont{
+
+  float:left;
+
+}
+
+#con{
+
+  float:left;
+  padding-left:15px;
+  padding-top:5px;
+}
+
+#msg{
+
+  float:left;
+}
+
+#mesg{
+
+ float:left;
+ padding-left:15px;
+ padding-top:5px;
+}
+
+
+.awarding{
+
+	width: 100%;
+  position:absolute;
+  top:200%;
+  
+} 
+#win{
+
+	text-align: center;
+}
+.runn{
+
+	width:22%;
+	padding: 1.5%;
+	height:100px;
+	float:left;
+	text-align: center;
+}
+.runn img{
+
+	width: 100%;
+}
+span {
+  display: inline-block;
+  border-bottom: 1.5px solid #000;
+  font-size: 10px;
+  font-family: "Avenir", sans-serif;
+}
+
+h4{
+
+ 	font-family: "Avenir", sans-serif;
+ 	font-weight: normal;
+ 	font-size: 10px;
+
+ }
+
+ #btn {
+
+  position: fixed; 
+  bottom: 20px;
+  cursor: pointer; 
+  right: 30px; 
+  font-size: 18px; 
+  display: none;  
+  border: none; 
+  outline: none; 
+  background-color: #E2E5DE;
+  border-radius: 5px; 
+  color:#139139 ;
+  z-index: 99;  
+  padding: 5px; 
+}
+
